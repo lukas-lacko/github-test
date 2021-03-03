@@ -1,0 +1,1 @@
+console.log("logujem ako nidy predtym");
